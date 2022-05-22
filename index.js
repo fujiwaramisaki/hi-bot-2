@@ -53,4 +53,4 @@ client.on("message", msg => {
   }
 })
 
-client.login("OTc2NjcyMTgyMzc5ODg0NTg0.G77S_q.CXbocpviRgbHTCb__I9awGkpm16ctIQIggYfYw");
+client.login("Token");
